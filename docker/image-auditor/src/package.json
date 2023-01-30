@@ -1,0 +1,9 @@
+{
+  "name": "auditor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "M. Chantemargue, C. Matrand",
+  "license": "ISC"
+}
